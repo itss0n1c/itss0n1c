@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a 20 year old, self taught full stack web developer from Canada.
+
 I'm an active member of a developer team known as [Zenith](https://zenithdevs.com).
 
 ### Web Frameworks I've worked with
